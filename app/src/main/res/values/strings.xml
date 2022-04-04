@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Market</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_fav">Favourites</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_post">Place ad</string>
+    <string name="menu_profile">Profile</string>
+
+</resources>
