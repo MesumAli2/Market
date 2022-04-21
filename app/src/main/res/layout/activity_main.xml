@@ -64,18 +64,19 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
                 android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
                 android:layout_marginLeft="24dp"
-                android:orientation="vertical"
-                >
+                android:orientation="vertical">
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/poppins_medium"
-                    android:textColor="#fff"
                     android:text="Rent Property in best \n city dubai "
-                    android:textSize="16sp"/>
+                    android:textColor="#fff"
+
+                    android:textSize="16sp" />
 
                 <TextView
                     android:layout_width="wrap_content"

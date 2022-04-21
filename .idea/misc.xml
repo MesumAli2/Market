@@ -6,8 +6,9 @@
         <entry key="app/src/main/res/drawable-v24/ic_baseline_search_23.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/backgroung_bottom_navigation.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23123931884765628" />
-        <entry key="app/src/main/res/layout/item_category.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_category.xml" value="0.40924072265625" />
         <entry key="app/src/main/res/menu/menu_bottom_navigation_view.xml" value="0.12908782958984377" />
       </map>
     </option>
