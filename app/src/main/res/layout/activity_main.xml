@@ -145,6 +145,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/relativeLayout_seecat"
         android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         tools:listitem="@layout/item_category">
 
     </androidx.recyclerview.widget.RecyclerView>
@@ -155,7 +157,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:background="@drawable/backgroung_bottom_navigation"
         android:elevation="8dp"
         app:menu="@menu/menu_bottom_navigation_view" />
 
